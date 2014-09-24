@@ -1,0 +1,21 @@
+{
+    "name": "ien-systems/yii2-tinymce",
+    "description": "TinyMCE widget for Yii2.",
+    "keywords": ["yii2", "extension", "tinymce"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Andy S",
+            "email": "andy.s.kos@gmail.com",
+            "homepage": "http://ien-systems.ru"
+        }
+    ],
+    "require" : {
+        "yiisoft/yii2": "*"
+    },
+    "autoload": {
+        "psr-4": {
+            "iensys\\tinymce\\": ""
+        }
+    }
+}
