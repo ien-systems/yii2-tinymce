@@ -1,4 +1,4 @@
 yii2-tinymce
 ============
 
-TinyMCE widget for Yii2 Framework
+TinyMCE widget for Yii2 Framework.
